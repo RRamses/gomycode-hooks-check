@@ -1,0 +1,75 @@
+.bigbox{
+  height: 600px;
+  width: 500px;
+  display: block;
+  border-radius: 7px;
+  border: 1px solid black;
+  margin: 50px;
+  margin-left: 400px;
+  padding: 50px;
+  background-color: gray;
+}
+
+.box1{
+  height: 200px;
+  width: 100%;
+  background-color: white;
+  align-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.box2{
+  height: 400px;
+  width: 100%;
+  background-color: white;
+  overflow-y:scroll;
+  
+}
+
+.searchbar{
+  height: 20px;
+  width: 200px;
+}
+
+button{
+  height: 25px;
+  width: 25px;
+  border-radius: 100%;
+  background-color: rgb(182, 148, 148);
+}
+
+.user{
+  height: 100px;
+  width: 100%;
+  border:  1px solid black;
+  display: flex;
+}
+
+
+.userprofil{
+  height: 100px;
+  width: 30%;
+ 
+}
+.userinfo{
+height:100px;
+width: 70%;
+border:  1px solid blue;
+}
+
+.img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+
+}
+
+.ikon{
+  color:red;
+  cursor: pointer;
+  
+}
+
